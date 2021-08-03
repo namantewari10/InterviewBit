@@ -1,4 +1,4 @@
-class nonCP {
+class abc {
     class Node{
         Node[] child;
         Node(){
